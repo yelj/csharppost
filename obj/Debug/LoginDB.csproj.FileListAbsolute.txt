@@ -1,0 +1,12 @@
+D:\cshopwork\Login-master\LoginDB\bin\Debug\LoginDB.exe.config
+D:\cshopwork\Login-master\LoginDB\bin\Debug\LoginDB.exe
+D:\cshopwork\Login-master\LoginDB\bin\Debug\LoginDB.pdb
+D:\cshopwork\Login-master\LoginDB\obj\Debug\LoginDB.csprojResolveAssemblyReference.cache
+D:\cshopwork\Login-master\LoginDB\obj\Debug\LoginDB.Form1.resources
+D:\cshopwork\Login-master\LoginDB\obj\Debug\LoginDB.Properties.Resources.resources
+D:\cshopwork\Login-master\LoginDB\obj\Debug\LoginDB.csproj.GenerateResource.Cache
+D:\cshopwork\Login-master\LoginDB\obj\Debug\LoginDB.exe
+D:\cshopwork\Login-master\LoginDB\obj\Debug\LoginDB.pdb
+D:\cshopwork\Login-master\LoginDB\bin\Debug\Newtonsoft.Json.dll
+D:\cshopwork\Login-master\LoginDB\bin\Debug\Newtonsoft.Json.pdb
+D:\cshopwork\Login-master\LoginDB\bin\Debug\Newtonsoft.Json.xml
